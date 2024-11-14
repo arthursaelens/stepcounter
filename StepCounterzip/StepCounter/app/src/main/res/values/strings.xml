@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+    <string-array name="sensor_delay_array">
+        <!-- Values are sorted to match the enum values in SensorManager -->
+        <item>Fastest</item>    <!-- 0x00000000 -->
+        <item>Game</item>       <!-- 0x00000001 -->
+        <item>UI</item>         <!-- 0x00000002 -->
+        <item>Normal</item>     <!-- 0x00000003 -->
+    </string-array>
+
+</resources>

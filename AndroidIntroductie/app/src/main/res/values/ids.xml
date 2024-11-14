@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nameEditText" type="id">54</item>
+    <item name="nameTextView" type="id">45</item>
+</resources>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfileFragment" >
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:menu="@menu/top_nav_menu"
+        tools:context=".HomeFragment">
+
+        <TextView
+            android:id="@+id/textgeslacht"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:text="Geslacht:"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/textgewicht"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:text="Gewicht:"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textleeftijd" />
+
+        <TextView
+            android:id="@+id/textleeftijd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:text="Leeftijd:"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.508"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/radioGroup1" />
+
+        <TextView
+            android:id="@+id/textlengte"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:text="Lengte:"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textgewicht" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textgeslacht"
+            android:layout_centerHorizontal="true"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="@+id/textgeslacht"
+            app:layout_constraintStart_toStartOf="@+id/textgeslacht"
+            app:layout_constraintTop_toBottomOf="@+id/textgeslacht">
+
+
+            <RadioButton
+                android:id="@+id/radioButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/radioGroup1"
+                android:layout_alignLeft="@+id/radioGroup1"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="68dp"
+                android:text="Male"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textgeslacht" />
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Female"
+                app:layout_constraintEnd_toStartOf="@+id/radioButton2"
+                app:layout_constraintHorizontal_bias="0.892"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textgeslacht" />
+
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/tekstlengte"
+            android:layout_width="55dp"
+            android:layout_height="41dp"
+            android:textAlignment="viewStart"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/lengte"
+            app:layout_constraintStart_toEndOf="@+id/lengte" />
+
+        <EditText
+            android:id="@+id/leeftijd"
+            android:layout_width="77dp"
+            android:layout_height="53dp"
+            android:layout_marginTop="10dp"
+            android:ems="10"
+            android:inputType="numberSigned"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="@+id/textleeftijd"
+            app:layout_constraintStart_toStartOf="@+id/textleeftijd"
+            app:layout_constraintTop_toBottomOf="@+id/textleeftijd" />
+
+        <EditText
+            android:id="@+id/gewicht"
+            android:layout_width="89dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="156dp"
+            android:layout_marginTop="16dp"
+            android:ems="10"
+            android:inputType="numberSigned"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textgewicht" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="46dp"
+            android:layout_height="44dp"
+            android:text="Kg"
+            android:textAlignment="viewStart"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@+id/gewicht"
+            app:layout_constraintStart_toEndOf="@+id/gewicht" />
+
+        <EditText
+            android:id="@+id/lengte"
+            android:layout_width="86dp"
+            android:layout_height="57dp"
+            android:layout_marginStart="156dp"
+            android:layout_marginTop="16dp"
+            android:text="cm"
+            android:ems="10"
+            android:inputType="number"
+            android:textAlignment="center"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textlengte" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

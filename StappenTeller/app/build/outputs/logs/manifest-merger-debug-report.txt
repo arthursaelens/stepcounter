@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\63f4f42b397f767a208d0d5dfb0a6af4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\94c9e2efda528ac60c1a722c65d10f70\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d661340be3daeae3a3d5df6da1a46c8c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a7477319069adedf239112d33f5df595\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9935470e6383feb5b71fff651c6da659\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\417a80ef7994e5dc3f43d0bca07a0ab3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4f48ffb2ce3b15833be43297230ab137\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6d09e03cb2c5de38be533f2689681d9e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8460c980b7ec905a7571ff6f33e04acb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\15dccbed40326227954e53e9bcc10a64\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b7aa786289d9bfbedf9749874508db89\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32bd63f42b63ef59d654c8cd46035a6c\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\63f4f42b397f767a208d0d5dfb0a6af4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\63f4f42b397f767a208d0d5dfb0a6af4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\94c9e2efda528ac60c1a722c65d10f70\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\94c9e2efda528ac60c1a722c65d10f70\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d661340be3daeae3a3d5df6da1a46c8c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d661340be3daeae3a3d5df6da1a46c8c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a7477319069adedf239112d33f5df595\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a7477319069adedf239112d33f5df595\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9935470e6383feb5b71fff651c6da659\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9935470e6383feb5b71fff651c6da659\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\417a80ef7994e5dc3f43d0bca07a0ab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\417a80ef7994e5dc3f43d0bca07a0ab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4f48ffb2ce3b15833be43297230ab137\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4f48ffb2ce3b15833be43297230ab137\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6d09e03cb2c5de38be533f2689681d9e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6d09e03cb2c5de38be533f2689681d9e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8460c980b7ec905a7571ff6f33e04acb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8460c980b7ec905a7571ff6f33e04acb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\15dccbed40326227954e53e9bcc10a64\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\15dccbed40326227954e53e9bcc10a64\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b7aa786289d9bfbedf9749874508db89\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b7aa786289d9bfbedf9749874508db89\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32bd63f42b63ef59d654c8cd46035a6c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32bd63f42b63ef59d654c8cd46035a6c\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:11:9-40
+activity#be.ugent.elis.csl.stappenteller.MainActivity
+ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:16:27-74
+service#be.ugent.elis.csl.stappenteller.CounterService
+ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml:19:18-48
+uses-sdk
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\63f4f42b397f767a208d0d5dfb0a6af4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\63f4f42b397f767a208d0d5dfb0a6af4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\94c9e2efda528ac60c1a722c65d10f70\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\94c9e2efda528ac60c1a722c65d10f70\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d661340be3daeae3a3d5df6da1a46c8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d661340be3daeae3a3d5df6da1a46c8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a7477319069adedf239112d33f5df595\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a7477319069adedf239112d33f5df595\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9935470e6383feb5b71fff651c6da659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9935470e6383feb5b71fff651c6da659\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\417a80ef7994e5dc3f43d0bca07a0ab3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\417a80ef7994e5dc3f43d0bca07a0ab3\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4f48ffb2ce3b15833be43297230ab137\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4f48ffb2ce3b15833be43297230ab137\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6d09e03cb2c5de38be533f2689681d9e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6d09e03cb2c5de38be533f2689681d9e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8460c980b7ec905a7571ff6f33e04acb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8460c980b7ec905a7571ff6f33e04acb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\15dccbed40326227954e53e9bcc10a64\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\15dccbed40326227954e53e9bcc10a64\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b7aa786289d9bfbedf9749874508db89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b7aa786289d9bfbedf9749874508db89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32bd63f42b63ef59d654c8cd46035a6c\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32bd63f42b63ef59d654c8cd46035a6c\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Media Markt\Documents\MMMGroepE\StappenTeller\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\94c9e2efda528ac60c1a722c65d10f70\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\94c9e2efda528ac60c1a722c65d10f70\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d661340be3daeae3a3d5df6da1a46c8c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\d661340be3daeae3a3d5df6da1a46c8c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a7477319069adedf239112d33f5df595\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a7477319069adedf239112d33f5df595\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9935470e6383feb5b71fff651c6da659\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\9935470e6383feb5b71fff651c6da659\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\417a80ef7994e5dc3f43d0bca07a0ab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\417a80ef7994e5dc3f43d0bca07a0ab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4f48ffb2ce3b15833be43297230ab137\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\4f48ffb2ce3b15833be43297230ab137\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6d09e03cb2c5de38be533f2689681d9e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6d09e03cb2c5de38be533f2689681d9e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8460c980b7ec905a7571ff6f33e04acb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\8460c980b7ec905a7571ff6f33e04acb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\15dccbed40326227954e53e9bcc10a64\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\15dccbed40326227954e53e9bcc10a64\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b7aa786289d9bfbedf9749874508db89\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\b7aa786289d9bfbedf9749874508db89\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32bd63f42b63ef59d654c8cd46035a6c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\32bd63f42b63ef59d654c8cd46035a6c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\cb238ce38db49169c912735fc9c8709f\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Media Markt\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\c81953ff19b94151bcebd4701ce2ffe6\AndroidManifest.xml:26:13-58

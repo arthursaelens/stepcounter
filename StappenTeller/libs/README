@@ -1,0 +1,6 @@
+These are duplicates from the libraries normally provided by gradle's
+dependency resolver, which we need to run code outside of the IDE/APK
+(ie. to support OfflineAnalysis).
+
+Make sure they are up to date with the actual versions being used.
+
